@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.8",
-  "update_message": "Update.",
-  "download_url": "https://storage.mtls.cloud.google.com/chrome-ex-waze-discuss/chrome-ex-wd-1.8.zip",
-  "download_filename": "chrome-ex-wd-1.8.zip",
+  "latest_version": "2.0.5",
+  "update_message": "Update required.",
+  "download_url": "https://storage.mtls.cloud.google.com/chrome-ex-waze-discuss/chrome-ex-wd-2.0.5.zip",
+  "download_filename": "chrome-ex-wd-2.0.5.zip",
   "update_command_template": "cd ~/Downloads && rm -rf chrome-ex-wd && unzip -o \"{download_filename}\" && open chrome://extensions"
 }
