@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.2",
-  "update_message": "Update required.",
-  "download_url": "https://storage.mtls.cloud.google.com/chrome-ex-waze-discuss/chrome-ex-wd-2.2.zip",
-  "download_filename": "chrome-ex-wd-2.2.zip",
+  "latest_version": "2.3",
+  "update_message": "Buganizer link finder, User ID added to template.",
+  "download_url": "https://storage.mtls.cloud.google.com/chrome-ex-waze-discuss/chrome-ex-wd-2.3.zip",
+  "download_filename": "chrome-ex-wd-2.3.zip",
   "update_command_template": "cd ~/Downloads && rm -rf chrome-ex-wd && unzip -o \"{download_filename}\" && open chrome://extensions"
 }
